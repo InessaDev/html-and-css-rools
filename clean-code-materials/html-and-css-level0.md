@@ -1,4 +1,4 @@
-#### [Stage#1](../../) > [Проект 'Clean Code S1E1'](../) 
+
 # HTML & CSS. Начальный уровень
 
 ## 1. Общие правила для HTML + CSS
@@ -385,4 +385,3 @@ HTML5 рекомендуется для всех видов HTML-докумен�
   
 ```
 
-## [Продвинутый уровень](https://github.com/rolling-scopes-school/tasks/blob/master/stage1/modules/clean-code/materials/html-and-css-extended.md)
